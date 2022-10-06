@@ -17,3 +17,4 @@ class MainActivity : AppCompatActivity() {
 
 //alla andra personer gör en clone
 //alla skapar sin egen branch (git checkout -b emil)
+///ASdjasdlasdlkaslkdlkasdasdsa
