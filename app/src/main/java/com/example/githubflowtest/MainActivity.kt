@@ -14,3 +14,6 @@ class MainActivity : AppCompatActivity() {
 //en person skapar projektet
 //samma person gör en git init
 //samma person skapar ett projekt på github
+
+//alla andra personer gör en clone
+//alla skapar sin egen branch (git checkout -b emil)
